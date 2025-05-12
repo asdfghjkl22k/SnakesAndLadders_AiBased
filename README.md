@@ -61,7 +61,7 @@ SnakesAndLadders_AiBased/
 
 ### 📦 Installation
 ```bash
-git clone https://github.com/your-username/snakes-and-ladders-ai.git
+git clone [https://github.com/your-username/snakes-and-ladders-ai.git]
 cd snakes-and-ladders-ai
 pip install pygame
 python main.py
