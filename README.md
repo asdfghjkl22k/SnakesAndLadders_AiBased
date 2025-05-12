@@ -2,7 +2,7 @@
 
 A modern twist on the classic Snakes and Ladders game — now featuring AI, dynamic storytelling, power-ups, sound effects, and more!
 
-
+https://github.com/user-attachments/assets/bb1d6288-ac1e-49b5-856f-bc5bdbcb7f8a
 
 ## 📄 Project Report
 
