@@ -18,7 +18,6 @@ https://github.com/user-attachments/assets/bb1d6288-ac1e-49b5-856f-bc5bdbcb7f8a
 - 📜 NLP-style storytelling log with scrollable UI
 - 🔊 Real-time sound effects (dice roll, snake, ladder, win)
 - 🧠 Simple rule-based AI logic with responsive animations
-- 🎨 Smooth token movement animation
 
 ---
 
